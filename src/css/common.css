@@ -16,3 +16,17 @@ img {
   display: block;
   max-width: 100%;
 }
+
+span.value {
+  font-style: 18px;
+  font-weight: bold;
+}
+
+.field {
+  margin-right: 15px;
+}
+
+.timer {
+  display: flex;
+  padding-top: 20px;
+}
